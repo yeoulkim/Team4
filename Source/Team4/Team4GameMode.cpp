@@ -12,3 +12,5 @@ ATeam4GameMode::ATeam4GameMode()
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 }
+
+// 주석 추가합니다
