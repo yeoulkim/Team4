@@ -12,3 +12,4 @@ void ATItemBase::BeginPlay()
 	Super::BeginPlay();
 }
 
+//재우
