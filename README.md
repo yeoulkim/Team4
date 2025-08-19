@@ -147,7 +147,7 @@
 <br>
 
 ## 🧾 노션
-- [PPP](https://www.notion.so/kimyeoul/PPP-Purge-Protocol-Project-253cf60eefb680909926f00d4ccbdf62)
+- [『 PPP : Purge Protocol Project 』](https://www.notion.so/kimyeoul/PPP-Purge-Protocol-Project-253cf60eefb680909926f00d4ccbdf62)
 
 <br>
 
